@@ -1,0 +1,22 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore VSCode settings (optional)
+.vscode/
+
+# Ignore audio/video/temp files
+*.wav
+*.mp3
+*.mp4
+*.m4a
+
+# Ignore large data
+*.zip
+*.tar.gz
+
+# Ignore environment files
+.env

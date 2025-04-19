@@ -1,0 +1,7 @@
+A firewall is a system that is designed to prevent unauthorized access from entering a private
+network by filtering the information that comes in from the internet. A firewall is especially
+important to a large organization that has a lot of computers and servers in them because you don't
+want all those devices accessible to everyone.
+Firewalls come in different types and one type is called a host based firewall and this is a
+software firewall. This is the kind of firewall that is installed on a computer and it protects that
+computer only. A network based firewall is a combination of hardware and software.
